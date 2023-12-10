@@ -5,7 +5,7 @@ from PyQt5 import uic, QtWidgets
 from PyQt5.QtWidgets import QApplication,  QMainWindow
 from PyQt5.QtWidgets import QMessageBox
 from PyQt5.QtCore import *
-# probando subida github
+# probando 
 class Consulta_apagado(QMainWindow):
     def __init__(self):
         super().__init__()
