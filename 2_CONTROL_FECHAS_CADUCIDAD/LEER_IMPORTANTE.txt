@@ -1,0 +1,21 @@
+
+Programa: "Expiration"
+versión: 1.0
+Lenguaje de programación: python 3.8
+BBDD (base de datos): sqlite3
+
+
+Este programa generara automáticamente una base de datos llamada:
+"BBDD_caducidadDocumentos",la cual ha de ubicarse en la misma carpeta que el programa.
+
+
+IMPORTANTE:
+
+* Cualquier modificación manual de este archivo de BBDD hara que se pierdan los datos.
+
+POR LO QUE SE RECOMIENDA:
+
+* Crear un acceso directo del programa para su utilización.
+* Realizar exportaciones de la BBDD cada cierto tiempo como medida de seguridad.
+
+
