@@ -3,7 +3,7 @@
 ## Introducción
 
 Tanto la calculadora simple, como el temporizador de apagado de una PC, fueron las primeras aplicaciones creadas cuando recien me introducía en el mundo de Python, 
-seguidamente hice una aplicación de control de fechas, para ser mas exacto, llevar el control de la caducidad de documentos personales, y posteriormente una applicación relacionada con el mundo de las criptomonedas en concreto la Yield farming.
+seguidamente hice una aplicación de control de fechas, para ser mas exacto, llevar el control de la caducidad de documentos personales y posteriormente una applicación relacionada con el mundo de las criptomonedas, en concreto la Yield farming.
 
 <img align="left" width="400" height="300" src="https://github.com/Paul243654/Aplicaciones_varias/assets/112754073/6ee8efbd-fec1-4a73-9552-ce0ec1f9aea7"> 
 
