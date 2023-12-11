@@ -23,6 +23,9 @@ seguidamente hice una aplicación de control de fechas, para ser mas exacto, lle
 ## Descripción
 
 Hare una breve descripción de la Yield farming, ya que de las demás aplicaciones hay poco que decir.
+El yield farming es una forma de que los inversores ganen una tasa de interés por sus monedas o tokens.
+Lo hacen poniendo su dinero en una aplicación descentralizada, lo que es un contrato inteligente o dApp.
+Algunos ejemplos de dApps son los monederos de criptomonedas, los intercambios descentralizados (DEX) y las plataformas de medios sociales descentralizados, las DAOs.
 
 ## Estado
 
@@ -31,7 +34,7 @@ Hare una breve descripción de la Yield farming, ya que de las demás aplicacion
 
 ## Funcionalidades
 
-
+Esta aplicación, trata sobre todo de simular a pequeña escala el funcionamiento de las Yied Farming.
 
 ## Autores
 
