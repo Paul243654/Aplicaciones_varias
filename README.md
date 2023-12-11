@@ -29,7 +29,8 @@ Algunos ejemplos de dApps son los monederos de criptomonedas, los intercambios d
 
 ## Estado
 
-![ready](https://github.com/Paul243654/Aplicaciones_varias/assets/112754073/bc8aadd7-2e94-4ae9-a6a6-58d870bf1d9f)
+
+![ready](https://github.com/Paul243654/Aplicaciones_varias/assets/112754073/6746b4bb-97d2-423b-9cfa-c9311e0e935e)
 
 
 ## Funcionalidades
