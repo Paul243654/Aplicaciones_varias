@@ -22,9 +22,16 @@ seguidamente hice una aplicación de control de fechas, para ser mas exacto, lle
 
 ## Descripción
 
+Hare una breve descripción de la Yield farming, ya que de las demás aplicaciones hay poco que decir.
+
 ## Estado
 
+![en_construccion](https://github.com/Paul243654/Aplicaciones_varias/assets/112754073/8fed76f5-3400-41fa-8a60-f0a380adcf4e)
+
+
 ## Funcionalidades
+
+
 
 ## Autores
 
